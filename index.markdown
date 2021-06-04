@@ -1,5 +1,4 @@
 ---
-layout: home
+layout: default
 ---
-# Jackson Sargent
-# Coming Soon
+## Coming Soon
