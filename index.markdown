@@ -1,6 +1,5 @@
 ---
-# Jackson Sargent
-# Coming Soon
-
 layout: home
 ---
+# Jackson Sargent
+# Coming Soon
