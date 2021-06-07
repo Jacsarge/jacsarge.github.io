@@ -27,7 +27,7 @@ url: "jacsarge@github.io" # the base hostname & protocol for your site, e.g. htt
 github_username:  jacsarge
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
