@@ -27,9 +27,10 @@ url: "jacsarge@github.io" # the base hostname & protocol for your site, e.g. htt
 github_username:  jacsarge
 
 # Build settings
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimmal-mistakes@4.23.0"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
