@@ -17,7 +17,7 @@ As a part of the Google funded CS@Mines Developing Hidden Talents program, I'm w
 
 ### comp.social
 
-From the Fall of 2018 to March of 2020 I worked with Dr. Gilbert in the School of Information at the University of Michigan. I've done data analysis to guide the development of a classifier which identifies Russian trolls on Twitter, and helped author the paper Still out there: Modeling and Identifying Russian Troll Accounts on Twitter (https://arxiv.org/abs/1901.11162), which was awarded Best Paper Runner Up at WebSci '20. I also have developed a prototype app which uses location data and Facebook connection to incentivize purchasing carbon offsets after flights. My work in this lab has taught me many technical skills in software development and data analysis, as well as bolstered my abilities to ask questions and think creatively.
+From the Fall of 2018 to March of 2020 I worked with Dr. Gilbert in the School of Information at the University of Michigan. I've done data analysis to guide the development of a classifier which identifies Russian trolls on Twitter, and helped author the paper [Still out there: Modeling and Identifying Russian Troll Accounts on Twitter](https://arxiv.org/abs/1901.11162), which was awarded Best Paper Runner Up at WebSci '20. I also have developed a prototype app which uses location data and Facebook connection to incentivize purchasing carbon offsets after flights. My work in this lab has taught me many technical skills in software development and data analysis, as well as bolstered my abilities to ask questions and think creatively.
 
 ### Michigan Data Science Team
 
